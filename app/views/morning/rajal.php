@@ -9,7 +9,7 @@
         </tr>
     </thead>
     <tbody>
-        <h2>Bima sandika</h2>
+        
     </tbody>
     </table>
 </div>
