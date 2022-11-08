@@ -9,9 +9,7 @@
         </tr>
     </thead>
     <tbody>
-        <ul>
-            <li>coba</li>
-        </ul>
+        
     </tbody>
     </table>
 </div>
