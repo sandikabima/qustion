@@ -5,8 +5,6 @@
             <th>No</th>
             <th>Unit</th>
             <th>Dokter</th>
-
-          
             <th>P BPJS</th>
             <th>Pasien Umum</th>
             <th>Pasien NON</th>
