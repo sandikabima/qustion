@@ -1,1 +1,0 @@
-<h2>bima sandika</h2>

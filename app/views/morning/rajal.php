@@ -6,6 +6,8 @@
             <th>Unit</th>
             <th>Dokter</th>
             <th>Pasien Umum</th>
+            <th>Pasien BPJS</th>
+            <th>Pasien NON</th>
         </tr>
     </thead>
     <tbody>
