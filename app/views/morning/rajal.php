@@ -5,9 +5,11 @@
             <th>No</th>
             <th>Unit</th>
             <th>Dokter</th>
-            <th>P UMUM</th>
-            <th>P NON</th>
+
+          
             <th>P BPJS</th>
+            <th>Pasien Umum</th>
+            <th>Pasien NON</th>
         </tr>
     </thead>
     <tbody>
