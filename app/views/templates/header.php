@@ -27,6 +27,9 @@
         <li class="nav-item">
             <a class="nav-link" href="<?=BASEURL;?>/Morning">Morning Report</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="<?=BASEURL;?>/Kpi">List KPI</a>
+        </li>
         </ul>
     </div>
     </div>

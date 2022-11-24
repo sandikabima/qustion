@@ -1,6 +1,6 @@
 <?php
 
-define ('BASEURL','http://localhost/morn/public');
+define ('BASEURL','http://localhost/qustion/public');
 
 
 // DB
